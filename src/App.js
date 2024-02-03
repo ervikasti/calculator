@@ -37,7 +37,7 @@ function App() {
 
   return (
     <div className={style.container}>
-
+        <h1>React Calculator</h1>
         <input className={style.display} type="text" value={inputDisp}/>
         <div className={style.result}>
           {result}
