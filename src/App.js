@@ -1,5 +1,4 @@
 import { useState } from "react";
-import Btn from "./components/btn/Btn";
 import style from "./App.module.css";
 
 function App() {
